@@ -6,4 +6,3 @@ const person = {
  }   
 };
 
-person.greet();
